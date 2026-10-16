@@ -1,0 +1,11 @@
+.venv/
+.idea/
+.agents/
+.gemini/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.thumbnail
+.git/
+.gitignore
